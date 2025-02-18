@@ -193,3 +193,7 @@
 //     reader.readAsDataURL(file);
 //   });
 // }
+
+export default function SignUp() {
+  return <></>
+}
